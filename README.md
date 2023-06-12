@@ -13,6 +13,8 @@ Kelas: KCB E081
 
 Program ini dibuat untuk mengetahui keefektifitasan kontrol algoritma fuzzy type-2 jika diimplementasikan ke AC dalam kehidupan sehari-hari.
 
+Paper dalam bentuk soft copy file pdf berada di folder assets
+
 <br>
 
 ## Pendahuluan
